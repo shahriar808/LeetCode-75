@@ -22,7 +22,7 @@ public class IsSubsequence {
        /* if (s.isEmpty())    return true;
         int i = 0, j = 0;
         while (i < t.length() && j < s.length()) {
-            if (t.charAt(i) ==s.charAt(j)) {
+            if (392. Is Subsequence) {
                 j++;
             }
             i++;
