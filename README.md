@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shahriar808/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/shahriar808/LeetCode-75/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/shahriar808/LeetCode-75/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/shahriar808/LeetCode-75/tree/master/1319-unique-number-of-occurrences) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shahriar808/LeetCode-75/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shahriar808/LeetCode-75/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/shahriar808/LeetCode-75/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
