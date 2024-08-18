@@ -40,4 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shahriar808/LeetCode-75/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahriar808/LeetCode-75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/shahriar808/LeetCode-75/tree/master/0443-string-compression) |
+| [2470-removing-stars-from-a-string](https://github.com/shahriar808/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/shahriar808/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/shahriar808/LeetCode-75/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
